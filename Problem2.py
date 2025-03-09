@@ -1,5 +1,5 @@
 
-df_university = pd.read_csv('university_student_dashboard_data.csv)
+df_university = pd.read_csv('university_student_dashboard_data.csv')
 
 def university_dashboard():
     st.title("University Admissions & Satisfaction Dashboard")
