@@ -1,3 +1,8 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import networkx as nx
+import streamlit as st
 
 df_university = pd.read_csv('university_student_dashboard_data.csv')
 
