@@ -1,5 +1,3 @@
-pandas
-seaborn
-networkx
-matplotlib.pyplot
 streamlit
+pandas
+matplotlib
